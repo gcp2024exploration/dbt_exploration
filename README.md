@@ -1,5 +1,5 @@
 # dbt_exploration
-Steps:
+##Steps:
 Create a virtual env using virtual env python package and activate environment
     virtualenv my_env -- give your desired name
     source my_env/bin/activate activate the env(linux+mac)
