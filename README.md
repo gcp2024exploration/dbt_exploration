@@ -7,6 +7,7 @@ Create a virtual env using virtual env python package and activate environment
     .\my_env\Scripts\activate activate the env(windows)
 
 Install the dbt package using pip with BQ adapter
+
     pip install dbt-bigquery
 
 Intialise the DBT project using below command
