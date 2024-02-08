@@ -11,4 +11,5 @@ Install the dbt package using pip with BQ adapter
     pip install dbt-bigquery
 
 Intialise the DBT project using below command
- dbt init <project_name> 
+
+    dbt init <project_name> 
